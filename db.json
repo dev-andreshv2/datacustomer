@@ -1,6 +1,6 @@
 {
   
-   customers :[
+   "customers" :[
     {
         "dni":"270000",
         "name":"Juan Perez",
