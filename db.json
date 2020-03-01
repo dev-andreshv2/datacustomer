@@ -1,28 +1,21 @@
 {
-  
    "customers" :[
     {
         "dni":"270000",
         "name":"Juan Perez",
         "age":15
     },
-
     {
         "dni":"350000",
         "name":"Zaida Villamizar",
         "age":17
     },
-
     {
         "dni":"470000",
         "name":"Andres Vera",
         "age":20
     }
 ],
-
-  
-  
-  
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
