@@ -32,8 +32,7 @@
    ],
    "profile":{
       "name":"typicode"
-   }
-},
+   },
 {
    "LUNES":[
       {
@@ -221,4 +220,5 @@
          "espacioFisico":"SEDE VIRGEN DEL ROSARIO"
       }
    ]
+}
 }
